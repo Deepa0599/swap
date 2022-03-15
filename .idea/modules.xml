@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Com.Harman_batch04/Com.Harman_batch04.iml" filepath="$PROJECT_DIR$/Com.Harman_batch04/Com.Harman_batch04.iml" />
       <module fileurl="file://$PROJECT_DIR$/Harman_batch4.iml" filepath="$PROJECT_DIR$/Harman_batch4.iml" />
     </modules>
   </component>
